@@ -10,7 +10,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Code%20with-%23FF79C6.svg?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.io/badge/Open%20Source-%23F1FA8C.svg?style=for-the-badge&logo=github&logoColor=black" />
+  <img src="https://img.shields.io/badge/Open%20Source-%23F1FA8C.svg?style=for-the-badge&logo=github&logoColor=black" />
   <img src="https://img.shields.io/badge/Lifelong-Learner-%2350FA7B?style=for-the-badge" />
 </div>
 
@@ -41,9 +41,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=syntaxlyn&show_icons=true&theme=dracula&title_color=ff79c6&icon_color=8be9fd&text_color=f8f8f2&bg_color=282a36&include_all_commits=true" alt="Statistik GitHub syntaxlyn" width="400"/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syntaxlyn&theme=dracula&background=282a36&border=ff79c6&ring=bd93f9" alt="Streak GitHub syntaxlyn" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=syntaxlyn&show_icons=true&theme=dracula&title_color=ff79c6&icon_color=8be9fd&text_color=f8f8f2&bg_color=282a36" alt="syntaxlyn's GitHub stats" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syntaxlyn&theme=dracula&background=282a36&border=ff79c6&ring=bd93f9" width="400"/>
 </div>
 
 ---
